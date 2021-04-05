@@ -1,5 +1,5 @@
 # Machine Learning Time Series, Predicting Bitcoin Price
-(Group project)
+Group project
 
 ## What does it do?
 Attempts to predict bitcoin prices using LSTM model.
