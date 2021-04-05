@@ -9,17 +9,7 @@ The LSTM hyperarameters were tuned with Random Search
 
 Things that were considered:
 
-Features,
-
-Number of Neurons,
-
-Epoch,
-
-Batch Size,
-
-TimeSteps,
-
-And Layers
+Features, Number of Neurons, Epoch, Batch Size, TimeSteps, and Layers
 
 
 *More depth will be explained in the pdf document in comparison to SVM (did by Gwendolyne Legate)*
