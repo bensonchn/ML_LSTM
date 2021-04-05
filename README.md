@@ -1,4 +1,4 @@
-# Machine Learning Time Series (Group project)
+# Machine Learning Time Series, Predicting Bitcoin Price (Group project)
 
 ## What does it do?
 Attempts to predict bitcoin prices using LSTM model.
