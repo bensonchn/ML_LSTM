@@ -1,4 +1,4 @@
-# ML_LSTM (Group project (2))
+# Machine Learning Time Series (Group project (2))
 
 ## What does it do?
 Attempts to predict bitcoin prices using LSTM model.
