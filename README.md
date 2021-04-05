@@ -2,8 +2,10 @@
 
 ## What does it do?
 Attempts to predict bitcoin prices using LSTM model.
+
 I attempt to predict 7 days ahead (168 hours) using the hourly closing price.
-This LSTM hyperarameters were tuned with Random Search
+
+The LSTM hyperarameters were tuned with Random Search
 
 Things that were considered:
 Features,
