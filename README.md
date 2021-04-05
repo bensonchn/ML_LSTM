@@ -1,11 +1,23 @@
-# ML_LSTM
+# ML_LSTM (Group project (2))
 
 ## What does it do?
 Attempts to predict bitcoin prices using LSTM model.
 I attempt to predict 7 days ahead (168 hours) using the hourly closing price.
 This LSTM hyperarameters were tuned with Random Search
 
+Things that were considered:
+Features,
+Number of Neurons,
+Epoch,
+Batch Size,
+TimeSteps,
+And Layers
+
+More depth will be explained in the pdf document in comparison to SVM (did by Gwendolyne Legate)
+
 ## Needed Improvements
+The predicted curves that were very similar to the real curve which is a cause for concern for overfitting
+Due to limitations, the number of epochs were kept relatively low. There are many tools available to allow for faster training that might have allowed the LSTM model to do more testing.
 
 ## How to run it
 You simply run the whole code
