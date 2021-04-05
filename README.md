@@ -7,9 +7,7 @@ I attempt to predict 7 days ahead (168 hours) using the hourly closing price.
 
 The LSTM hyperarameters were tuned with Random Search
 
-Things that were considered:
-
-Features, Number of Neurons, Epoch, Batch Size, TimeSteps, and Layers
+Things that were considered: Features, Number of Neurons, Epoch, Batch Size, TimeSteps, and Layers
 
 
 *More depth will be explained in the pdf document in comparison to SVM (did by Gwendolyne Legate)*
