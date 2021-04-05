@@ -19,7 +19,7 @@ The predicted curves that were very similar to the real curve which is a cause f
 Due to limitations, the number of epochs were kept relatively low. There are many tools available to allow for faster training that might have allowed the LSTM model to do more testing.
 
 ## How to run it
-You simply run the whole code
+You simply run the whole code on jupyter notebook with the csv file
 
 ## Results
 In my findings, it would seem that the model is perhaps overfitting
